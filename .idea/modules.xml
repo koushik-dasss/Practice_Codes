@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array GFG/Array GFG.iml" filepath="$PROJECT_DIR$/Array GFG/Array GFG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICP Revision/ICP Revision.iml" filepath="$PROJECT_DIR$/ICP Revision/ICP Revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA Methods/JAVA Methods.iml" filepath="$PROJECT_DIR$/JAVA Methods/JAVA Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA Practice.iml" filepath="$PROJECT_DIR$/.idea/JAVA Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion GFG/Recursion GFG.iml" filepath="$PROJECT_DIR$/Recursion GFG/Recursion GFG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>

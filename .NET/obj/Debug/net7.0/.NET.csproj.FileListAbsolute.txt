@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\.NET\bin\Debug\net7.0\.NET.exe
+C:\Users\asus\OneDrive\Desktop\.NET\bin\Debug\net7.0\.NET.deps.json
+C:\Users\asus\OneDrive\Desktop\.NET\bin\Debug\net7.0\.NET.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\.NET\bin\Debug\net7.0\.NET.dll
+C:\Users\asus\OneDrive\Desktop\.NET\bin\Debug\net7.0\.NET.pdb
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.dll
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\refint\.NET.dll
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.pdb
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\.NET.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\.NET\obj\Debug\net7.0\ref\.NET.dll
